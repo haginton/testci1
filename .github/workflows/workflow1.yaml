@@ -1,6 +1,6 @@
 name: Practice for the class ADA School Java
 
-on: [push]
+on: push
     Branches: [master]
 
 jobs:
