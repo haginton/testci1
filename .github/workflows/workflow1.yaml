@@ -1,7 +1,7 @@
 name: Practice for the class ADA School Java
 
 on: push
-    Branches: [master]
+    branches: [ master ]
 
 jobs:
     test_build:
