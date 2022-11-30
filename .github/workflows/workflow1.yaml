@@ -1,6 +1,5 @@
 name: Practice for the class ADA School Java
 on: push
-  branches: master
 jobs:
   test_build:
     runs-on: ubuntu-latest
